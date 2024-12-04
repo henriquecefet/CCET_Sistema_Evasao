@@ -19,7 +19,7 @@ app.secret_key = 'AAjANDKd4I'
 
 db_config = {
     'user': 'sql10749794',
-    'password': 'VGbjxUZd45',
+    'password': '',
     'host': 'sql10.freemysqlhosting.net',  # Apenas o endereço IP ou nome do host
     'port': 3306,  # Especificação separada da porta
     'database': 'sql10749794'
